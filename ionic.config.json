@@ -1,0 +1,8 @@
+{
+  "name": "pelis",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
